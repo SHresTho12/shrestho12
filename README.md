@@ -13,9 +13,9 @@ Skills:  REACT / JS / HTML / CSS /Sass / Java / OOP / SQL
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=shrestho12)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shrestho12)](https://github.com/anuraghazra/github-readme-stats&theme=dracula)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shrestho12)](https://github.com/anuraghazra/github-readme-stats&theme=radical)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=shrestho12&show_icons=true&hide=contribs&theme=radical)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=shrestho12&show_icons=true&hide=contribs&theme=dracula)  
 
 ![GitHub metrics](https://metrics.lecoq.io/shrestho12)  
 
