@@ -17,7 +17,7 @@ Skills:  REACT / JS / HTML / CSS /Sass / Java / OOP / SQL
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=shrestho12&show_icons=true&hide=contribs&theme=dracula)  
 
-![GitHub metrics](https://metrics.lecoq.io/shrestho12)  
+![GitHub metrics](https://metrics.lecoq.io/shrestho12&theme=transparent)  
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=shrestho12&theme=dracula)  
 
