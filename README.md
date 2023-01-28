@@ -15,9 +15,7 @@ Skills:  REACT / JS / HTML / CSS /Sass / Java / OOP / SQL
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shrestho12)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=shrestho12&show_icons=true)  
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=shrestho12)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=shrestho12&show_icons=true&hide=contribs,prs)  
 
 ![GitHub metrics](https://metrics.lecoq.io/shrestho12)  
 
