@@ -21,8 +21,8 @@ I am an enthusiastic software and web developer, eager to apply my problem-solvi
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=shrestho12)
 
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=shrestho12&show_icons=true&hide=contribs&theme=dracula" />
-<img align="left" width="47%" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=shrestho12&layout=compact&theme=dracula" />
+<img align="left" width="47%"  src="https://github-readme-stats.vercel.app/api?username=shrestho12&show_icons=true&hide=contribs&theme=dracula" />
+<img align="left" width="47%"  src = "https://github-readme-stats.vercel.app/api/top-langs/?username=shrestho12&layout=compact&theme=dracula" />
 
 
 ![GitHub metrics](https://metrics.lecoq.io/shrestho12)  
