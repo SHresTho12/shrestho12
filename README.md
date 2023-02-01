@@ -24,16 +24,16 @@ I am an enthusiastic software and web developer, eager to apply my problem-solvi
 
 
 <img align="left" width="47%"  src="https://github-readme-stats.vercel.app/api?username=shrestho12&show_icons=true&hide=contribs&theme=dracula" />
-<img align="left" width="47%"  src = "https://github-readme-stats.vercel.app/api/top-langs/?username=shrestho12&layout=compact&theme=dracula" />
+<img align="left" width="47%"  src = "https://streak-stats.demolab.com/?user=shrestho12&theme=dracula" />
 
 
 
 ![GitHub metrics](https://metrics.lecoq.io/shrestho12)  
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=shrestho12&theme=dracula)  
+
 
 ![Profile views](https://gpvc.arturio.dev/shrestho12)  
-[![trophy](https://github-profile-trophy.vercel.app/?username=shrestho12)
+
 
 
 <h3 align="left">Connect with me:</h3>
