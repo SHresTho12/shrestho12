@@ -23,7 +23,7 @@ I am an enthusiastic software and web developer, eager to apply my problem-solvi
 
 
 
-<img align="left" width="47%"  src="https://github-readme-stats.vercel.app/api?username=shrestho12&show_icons=true&hide=contribs&theme=dracula" />
+<!-- <img align="left" width="47%"  src="https://github-readme-stats.vercel.app/api?username=shrestho12&show_icons=true&hide=contribs&theme=dracula" /> -->
 <img align="left" width="47%"  src = "https://streak-stats.demolab.com/?user=shrestho12&theme=dracula" />
 
 
