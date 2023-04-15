@@ -30,7 +30,6 @@ I am an enthusiastic software and web developer, eager to apply my problem-solvi
 
 
 
-![GitHub metrics](https://metrics.lecoq.io/shrestho12)  
 
 
 
