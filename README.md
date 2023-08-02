@@ -36,11 +36,6 @@ I am an enthusiastic software and web developer, eager to apply my problem-solvi
 
 
 
-
-![Profile views](https://gpvc.arturio.dev/shrestho12)  
-
-
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/talimul-bari-shreshtho-50b8a7234" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="talimul-bari-shreshtho-50b8a7234" height="30" width="40" /></a>
