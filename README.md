@@ -1,5 +1,5 @@
 ### Hi there 👋, I am Talimul Bari Shrestho
-#### I am a Software Engineering
+#### I am a Software Engineer
 I am an enthusiastic software and web developer, eager to apply my problem-solving skills to new and challenging projects. I am always looking for opportunities to learn and grow, 
 
 ### Skills:  
